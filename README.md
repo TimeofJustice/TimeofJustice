@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/timeofjustice_" target="blank"><img src="https://img.shields.io/twitter/follow/timeofjustice_?logo=twitter&style=for-the-badge" alt="timeofjustice_" /></a> </p>
 
-- 🔭 Ich arbeite momentan an [AIWI](https://github.com/TimeofJustice/AIWI)
+- 🔭 Ich arbeite momentan an [E.D.I.T.H.](https://github.com/TimeofJustice/EDITH)
 
 - 🌱 Ich lerne momentan **C# (Unity)**
 
