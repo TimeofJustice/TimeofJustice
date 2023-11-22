@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/timeofjustice_" target="blank"><img src="https://img.shields.io/twitter/follow/timeofjustice_?logo=twitter&style=for-the-badge" alt="timeofjustice_" /></a> </p>
 
-- 🔭 Ich arbeite momentan an [E.D.I.T.H.](https://github.com/TimeofJustice/EDITH)
+- 🔭 Ich arbeite momentan an [timeofjustice.eu](https://github.com/TimeofJustice/timeofjustice.eu)
 
-- 🌱 Ich lerne momentan **C# (Unity)**
+- 🌱 Ich lerne momentan **Kotlin**
 
-- 📫 Man erreicht mich auf Discord **TimeofJustice#2018**
+- 📫 Man erreicht mich auf Discord **timeofjustice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
