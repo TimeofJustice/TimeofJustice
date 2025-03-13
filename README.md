@@ -3,14 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timeofjustice&label=Profile%20views&color=0e75b6&style=flat" alt="timeofjustice" /> </p>
 
-- 🔭 I’m currently working on **E.D.I.T.H.**
+- 🔭 I’m currently working on **timeofjustice.eu**
 
-- 🌱 I’m currently learning **Elm**
+- 🌱 I’m currently learning **VueJs**
 
 - 📫 How to reach me **Discord: timeofjustice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timeofjustice&show_icons=true&locale=en" alt="timeofjustice" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timeofjustice&" alt="timeofjustice" /></p>
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/TimeofJustice.png" alt="Your Image Badge" /><p>
