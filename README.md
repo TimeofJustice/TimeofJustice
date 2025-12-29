@@ -2,7 +2,7 @@
 
 # I'm TimeofJustice 👋
 
-*Student | Developer | Programmer*
+*Developer | Programmer | Gamer*
 
 🧠 Always open to collaboration, feedback, or just a good chat about tech.
 
@@ -11,12 +11,12 @@
 
 ---
 
-I’m a Computer Science student and passionate developer with a strong love for Python, Vue.js, and Django.
+I’m a Full Stack Developer with a Bachelor of Science (B.Sc.) in Applied Computer Science. I have hands-on experience with Python, Vue.js, and Django, and enjoy crafting both frontend and backend solutions.
 
-- 📖 Currently working on my bachelor’s thesis.
-- 🥕 My thesis focuses on building a web platform that suggests seasonal and regional recipes, aiming to promote sustainable eating habits by making seasonal availability more accessible and user-friendly.
-- 🌱 I’m always learning and exploring new technologies, especially in web development and backend design.
-- 🕹️ Outside of coding, I enjoy gaming, reading, and watching movies and series.
+- 🌐 Currently working on professional web development projects.
+- 🥕 My bachelor’s thesis focused on creating a web platform for seasonal and regional recipes, promoting sustainable eating habits.
+- 🌱 Always learning and experimenting with new tools, frameworks, and development techniques.
+- 🕹️ Outside of coding, I enjoy gaming and watching movies or series.
 - 🎵 Fun fact: I couldn’t imagine life without music.
 
 ![Title of the profile](.github/images/skills-tech.png)
